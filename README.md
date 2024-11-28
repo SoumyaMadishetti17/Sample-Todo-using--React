@@ -33,30 +33,28 @@ Building a responsive and accessible user interface.
 🙌 Contributing
 Contributions are welcome! Follow these steps to contribute:
 
-Fork the project.
-Create your feature branch:
-bash
-Copy code
-git checkout -b feature/YourFeature
-Commit your changes:
-bash
-Copy code
-git commit -m "Add YourFeature"
-Push to the branch:
-bash
-Copy code
-git push origin feature/YourFeature
-Open a Pull Request.
+1. Fork the project.
+  
+2. Create your feature branch:
+-> git checkout -b feature/YourFeature
+   
+3. Commit your changes:
+-> git commit -m "Add YourFeature"
+   
+4. Push to the branch:
+-> git push origin feature/YourFeature
+   
+5. Open a Pull Request.
+
+
 🌟 Show Your Support
 If you like this project:
 
-⭐ Star this repository.
-Share it with your friends and colleagues.
-📄 License
-This project is licensed under the MIT License.
+. ⭐ Star this repository.
+. Share it with your friends and colleagues.
 
 🤝 Connect
 Feel free to reach out:
 
-GitHub: SoumyaMadishetti17
-Email: soumyamadishettimsd17@gmail.com
+. GitHub: SoumyaMadishetti17
+. Email: soumyamadishettimsd17@gmail.com
