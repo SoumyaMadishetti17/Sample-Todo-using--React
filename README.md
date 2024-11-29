@@ -56,5 +56,5 @@ If you like this project:
 🤝 Connect
 Feel free to reach out:
 
-. GitHub: SoumyaMadishetti
+. GitHub: Soumya Madishetti
 . Email: soumyamadishettimsd17@gmail.com
